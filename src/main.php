@@ -4,7 +4,7 @@ require 'User.php';
 require 'Fight.php';
 
 $firstUser = new User("SanGoku", "20", "150");
-$secondeUser = new User("Narurot", "15", "120");
+$secondeUser = new User("Naruro", "15", "120");
 
 /*
  * firstUser attack secondUser
