@@ -17,9 +17,3 @@ if($secondeUser->getLife() <= 0) {
 } else {
     $fighter->info($firstUser->getName() . " a attaqué " . $secondeUser->getName() . " il lui reste donc " . $secondeUser->getLife() . "PV.");
 }
-
-
-
-
-
-
